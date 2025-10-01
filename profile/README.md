@@ -48,8 +48,8 @@
 
 ## 🖼 Screenshots
 <p align="center">
-  <img src="https://i.ytimg.com/vi/j1ZwOupGnFo/maxresdefault.jpg" alt="CS2 Skinchanger Screenshot 1" width="45%"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*c8fmrxo2GeZAszYm" alt="CS2 Skinchanger Screenshot 2" width="45%"/>
+  <img src="https://i.ytimg.com/vi/j1ZwOupGnFo/maxresdefault.jpg" alt="CS2 Skinchanger Screenshot 1" width="65%"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*c8fmrxo2GeZAszYm" alt="CS2 Skinchanger Screenshot 2" width="65%"/>
 </p>
 
 ---
